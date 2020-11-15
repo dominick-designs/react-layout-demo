@@ -12,10 +12,10 @@ export default class ProcessWorkflow extends Component {
             <Col md={4} className="pr-5">
               <Tabs defaultActiveKey="tab2" id="tabsExample" transition={false}>
                 <Tab eventKey="tab1" title="Tab 1">
-                  <h1>tab 1 here</h1>
+                  <h1>list of items here</h1>
                 </Tab>
                 <Tab eventKey="tab2" title="Tab 2">
-                  <h1>asdaf</h1>
+                  <h1>list of items here</h1>
                 </Tab>
               </Tabs>
             </Col>
