@@ -18,6 +18,6 @@ export const assignments = [
   },
 ];
 
-export default function getAssignments() {
+export  function getAssignments() {
   return assignments;
 }
